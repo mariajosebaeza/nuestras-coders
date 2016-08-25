@@ -1,0 +1,43 @@
+.contenedor {
+	position: relative;
+	margin-top: 90px;
+	margin-left: 90px;
+	width: 800px;
+}
+
+.block {
+	height: 200px;
+	width: 200px;
+	position: absolute;
+}
+.img1 {
+	background-image: url("../img/profile-1.png");
+}
+.img2 {
+	background-image: url("../img/profile-2.png");
+	left: 230px;
+}
+.img3 {
+	background-image: url("../img/profile-3.png");
+	left: 460px;
+}
+.img4 {
+	background-image: url("../img/profile-4.png");
+	top: 260px;
+}
+.img5 {
+	background-image: url("../img/profile-5.png");
+	top:260px;
+	left:230px;
+}
+.img6 {
+	background-image: url("../img/profile-6.png");
+	top:260px;
+	left:460px;
+}
+p {
+	color: white;
+	position:absolute;
+	bottom: 0;
+	right: 4px;
+}
